@@ -7,10 +7,10 @@ To run this project locally, run this command on your git bash:
 
 Linux and macOS:
 
-sudo git clone 
+sudo git clone https://github.com/shreya6360/DES-encryption-and-decryption-android-app.git
 
 Windows:
 
-git clone 
+git clone https://github.com/shreya6360/DES-encryption-and-decryption-android-app.git
 
 # License
