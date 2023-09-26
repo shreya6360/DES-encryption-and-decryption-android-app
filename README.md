@@ -14,3 +14,6 @@ Windows:
 git clone https://github.com/shreya6360/DES-encryption-and-decryption-android-app.git
 
 # License
+This project is free to use and does not contains any license.
+
+
